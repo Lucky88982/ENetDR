@@ -1,0 +1,9 @@
+torch
+torch-geometric
+transformers
+sentence-transformers
+scikit-learn
+numpy
+tqdm
+accelerate
+datasets
